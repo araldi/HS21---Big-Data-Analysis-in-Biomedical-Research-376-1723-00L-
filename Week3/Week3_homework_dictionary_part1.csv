@@ -1,0 +1,15 @@
+,Description,Code
+0,PatientID,eid
+1,Gender,31-0.0
+2,Height [cm],50-0.0
+3,Weight [Kg],21002-0.0
+4,Waist circumference [cm],48-0.0
+5,Hip circumference [cm],49-0.0
+6,Body_fat_percentage,23099-0.0
+7,Diabetes diagnosed by doctor,2443-0.0
+8,AgeRecruit,21022-0.0
+9,Glucose,30740-0.0
+10,Glycated haemoglobin (HbA1c),30750-0.0
+11,LDL direct,30780-0.0
+12,HDL cholesterol,30760-0.0
+13,IGF-1,30770-0.0
